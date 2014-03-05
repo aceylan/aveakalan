@@ -23,6 +23,18 @@
         android:text="Kalan İnternet" />
 
     <Button
+        android:id="@+id/btnKalanSms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kalan Sms" />
+
+    <Button
+        android:id="@+id/btnAyarlar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ayarlar" />
+
+    <Button
         android:id="@+id/btnCikis"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
